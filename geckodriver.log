@@ -1,0 +1,844 @@
+1578516280334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAjkJYf"
+Gtk-Message: 02:14:40.388: Failed to load module "appmenu-gtk-module"
+1578516282363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578516282364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578516282364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578516282364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14944): GLib-GIO-WARNING **: 02:14:42.561: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:14:43.040: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:14:43.198: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:15079): Gtk-WARNING **: 02:14:43.313: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15079): Gtk-WARNING **: 02:14:43.313: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15079): Gtk-WARNING **: 02:14:43.313: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15079): Gtk-WARNING **: 02:14:43.313: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15106): Gtk-WARNING **: 02:14:43.493: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15106): Gtk-WARNING **: 02:14:43.493: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15106): Gtk-WARNING **: 02:14:43.493: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:15106): Gtk-WARNING **: 02:14:43.494: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578516283972	Marionette	INFO	Listening on port 39263
+1578516284045	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:14:44.184: Failed to load module "appmenu-gtk-module"
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:443:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:443:12
+
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/fronts/inspector.js 383 getMutations/<
+[Parent 14944, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14944, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578517893140	Marionette	INFO	Stopped listening on port 39263
+1578518322821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSEQ5E"
+Gtk-Message: 02:48:42.879: Failed to load module "appmenu-gtk-module"
+1578518323095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518323095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518323095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518323096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9616): GLib-GIO-WARNING **: 02:48:43.182: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:48:43.421: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:48:43.575: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:9698): Gtk-WARNING **: 02:48:43.694: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9698): Gtk-WARNING **: 02:48:43.694: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9698): Gtk-WARNING **: 02:48:43.694: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9698): Gtk-WARNING **: 02:48:43.694: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9727): Gtk-WARNING **: 02:48:43.861: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9727): Gtk-WARNING **: 02:48:43.861: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9727): Gtk-WARNING **: 02:48:43.861: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:9727): Gtk-WARNING **: 02:48:43.862: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518324042	Marionette	INFO	Listening on port 34615
+1578518324127	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:48:44.572: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: initialize is not defined
+1578518397719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecokMwy"
+Gtk-Message: 02:49:57.771: Failed to load module "appmenu-gtk-module"
+1578518397994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518397994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518397994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518397994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10827): GLib-GIO-WARNING **: 02:49:58.082: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:49:58.320: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:49:58.475: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:10900): Gtk-WARNING **: 02:49:58.595: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10900): Gtk-WARNING **: 02:49:58.595: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10900): Gtk-WARNING **: 02:49:58.596: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10900): Gtk-WARNING **: 02:49:58.596: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10927): Gtk-WARNING **: 02:49:58.780: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10927): Gtk-WARNING **: 02:49:58.780: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10927): Gtk-WARNING **: 02:49:58.780: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:10927): Gtk-WARNING **: 02:49:58.781: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518399290	Marionette	INFO	Listening on port 43627
+1578518399323	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:49:59.439: Failed to load module "appmenu-gtk-module"
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg, line 626: Error: Script terminated by timeout at:
+s_lna@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:626:38
+s_dj@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:627:146
+s_qna.prototype.Ca@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:631:37
+s_6ma/<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:610:331
+s_Qka@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:496:329
+s_ci@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:494:202
+s_ai.prototype.addCallback@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:493:298
+s_6ma@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:610:296
+s_2ma/<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:608:501
+s_Qka@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:496:329
+s_ci@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:494:202
+s_ai.prototype.addCallback@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:493:298
+s_2ma@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:608:471
+s_cj.prototype.Ia@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:607:420
+s_aj.prototype.Da@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.cQ9nDsVBJtY.O/ck=xjs.s.QUBYOV7wZ0c.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAAIsAZt0AQP4PIgAAQB0DAAAC2gQbLBCGhAyiwgQCIA/d=1/dg=2/ct=zgms/rs=ACT90oFw9iHf2D1lfl80lNgMj0OQYFpilg:601:360
+p@https://www.google.com/?gws_rd=ssl:9:698
+
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: initialize is not defined
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: GUnload is not defined
+1578518416122	Marionette	INFO	Stopped listening on port 43627
+1578518529373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRsNCe5"
+Gtk-Message: 02:52:09.423: Failed to load module "appmenu-gtk-module"
+1578518529614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518529614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518529614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518529614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12766): GLib-GIO-WARNING **: 02:52:09.704: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:52:09.949: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:52:10.103: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 02:52:10.222: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 02:52:10.222: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 02:52:10.222: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 02:52:10.222: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12871): Gtk-WARNING **: 02:52:10.385: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12871): Gtk-WARNING **: 02:52:10.385: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12871): Gtk-WARNING **: 02:52:10.385: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12871): Gtk-WARNING **: 02:52:10.385: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518530534	Marionette	INFO	Listening on port 38371
+1578518530579	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:52:11.095: Failed to load module "appmenu-gtk-module"
+[Parent 12766, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12766, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578518568158	Marionette	INFO	Stopped listening on port 38371
+1578518569717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMJ4k2L"
+Gtk-Message: 02:52:49.768: Failed to load module "appmenu-gtk-module"
+1578518569929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518569930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518569930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518569930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13548): GLib-GIO-WARNING **: 02:52:50.042: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:52:50.288: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:52:50.443: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 02:52:50.561: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 02:52:50.561: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 02:52:50.561: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 02:52:50.561: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13657): Gtk-WARNING **: 02:52:50.725: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13657): Gtk-WARNING **: 02:52:50.725: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13657): Gtk-WARNING **: 02:52:50.725: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13657): Gtk-WARNING **: 02:52:50.726: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518570890	Marionette	INFO	Listening on port 43337
+1578518570920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Gtk-Message: 02:52:51.432: Failed to load module "appmenu-gtk-module"
+[Parent 13548, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13548, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578518584611	Marionette	INFO	Stopped listening on port 43337
+1578518586268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRlFgMg"
+Gtk-Message: 02:53:06.319: Failed to load module "appmenu-gtk-module"
+1578518586481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518586481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518586481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518586481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14006): GLib-GIO-WARNING **: 02:53:06.569: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:53:06.812: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:53:06.965: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:14073): Gtk-WARNING **: 02:53:07.097: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14073): Gtk-WARNING **: 02:53:07.097: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14073): Gtk-WARNING **: 02:53:07.097: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14073): Gtk-WARNING **: 02:53:07.097: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14101): Gtk-WARNING **: 02:53:07.258: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14101): Gtk-WARNING **: 02:53:07.259: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14101): Gtk-WARNING **: 02:53:07.259: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14101): Gtk-WARNING **: 02:53:07.259: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518587744	Marionette	INFO	Listening on port 35985
+1578518587772	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:53:07.961: Failed to load module "appmenu-gtk-module"
+1578518620452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAtTa9b"
+Gtk-Message: 02:53:40.503: Failed to load module "appmenu-gtk-module"
+1578518620706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518620707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518620708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518620708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14679): GLib-GIO-WARNING **: 02:53:40.796: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:53:41.096: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:53:41.257: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:14786): Gtk-WARNING **: 02:53:41.376: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14786): Gtk-WARNING **: 02:53:41.376: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14786): Gtk-WARNING **: 02:53:41.376: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14786): Gtk-WARNING **: 02:53:41.376: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14813): Gtk-WARNING **: 02:53:41.542: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14813): Gtk-WARNING **: 02:53:41.542: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14813): Gtk-WARNING **: 02:53:41.542: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14813): Gtk-WARNING **: 02:53:41.542: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518622006	Marionette	INFO	Listening on port 40289
+1578518622058	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:53:42.224: Failed to load module "appmenu-gtk-module"
+[Parent 14006, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14006, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578518625110	Marionette	INFO	Stopped listening on port 35985
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: initialize is not defined
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: GUnload is not defined
+[Parent 14679, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14679, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578518711687	Marionette	INFO	Stopped listening on port 40289
+1578518725872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenF3Csz"
+Gtk-Message: 02:55:25.923: Failed to load module "appmenu-gtk-module"
+1578518726140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518726140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518726140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518726140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16437): GLib-GIO-WARNING **: 02:55:26.229: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:55:26.475: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:55:26.630: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:16506): Gtk-WARNING **: 02:55:26.750: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16506): Gtk-WARNING **: 02:55:26.750: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16506): Gtk-WARNING **: 02:55:26.750: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16506): Gtk-WARNING **: 02:55:26.750: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16535): Gtk-WARNING **: 02:55:26.913: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16535): Gtk-WARNING **: 02:55:26.913: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16535): Gtk-WARNING **: 02:55:26.913: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16535): Gtk-WARNING **: 02:55:26.913: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518727294	Marionette	INFO	Listening on port 40421
+1578518727376	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:55:27.641: Failed to load module "appmenu-gtk-module"
+1578518737305	Marionette	INFO	Stopped listening on port 40421
+1578518756054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePT0Xdq"
+Gtk-Message: 02:55:56.110: Failed to load module "appmenu-gtk-module"
+1578518756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17046): GLib-GIO-WARNING **: 02:55:56.369: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:55:56.615: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:55:56.769: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:17149): Gtk-WARNING **: 02:55:56.884: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17149): Gtk-WARNING **: 02:55:56.884: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17149): Gtk-WARNING **: 02:55:56.884: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17149): Gtk-WARNING **: 02:55:56.884: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17178): Gtk-WARNING **: 02:55:57.056: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17178): Gtk-WARNING **: 02:55:57.057: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17178): Gtk-WARNING **: 02:55:57.057: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:17178): Gtk-WARNING **: 02:55:57.057: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518757260	Marionette	INFO	Listening on port 41919
+1578518757360	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:55:57.774: Failed to load module "appmenu-gtk-module"
+1578518790325	Marionette	INFO	Stopped listening on port 41919
+1578518861422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVmSlTt"
+Gtk-Message: 02:57:41.477: Failed to load module "appmenu-gtk-module"
+1578518861731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578518861731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578518861731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578518861731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18771): GLib-GIO-WARNING **: 02:57:41.820: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 02:57:42.075: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 02:57:42.224: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:18840): Gtk-WARNING **: 02:57:42.335: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18840): Gtk-WARNING **: 02:57:42.335: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18840): Gtk-WARNING **: 02:57:42.335: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18840): Gtk-WARNING **: 02:57:42.335: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18867): Gtk-WARNING **: 02:57:42.509: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18867): Gtk-WARNING **: 02:57:42.509: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18867): Gtk-WARNING **: 02:57:42.509: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18867): Gtk-WARNING **: 02:57:42.509: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578518862719	Marionette	INFO	Listening on port 35353
+1578518862726	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 02:57:43.213: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: initialize is not defined
+1578519083673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletCa7uD"
+Gtk-Message: 03:01:23.724: Failed to load module "appmenu-gtk-module"
+1578519083944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578519083944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578519083944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578519083944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22003): GLib-GIO-WARNING **: 03:01:24.043: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 03:01:24.284: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 03:01:24.443: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:22075): Gtk-WARNING **: 03:01:24.555: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22075): Gtk-WARNING **: 03:01:24.555: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22075): Gtk-WARNING **: 03:01:24.555: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22075): Gtk-WARNING **: 03:01:24.555: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22102): Gtk-WARNING **: 03:01:24.746: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22102): Gtk-WARNING **: 03:01:24.746: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22102): Gtk-WARNING **: 03:01:24.746: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:22102): Gtk-WARNING **: 03:01:24.747: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578519084941	Marionette	INFO	Listening on port 33677
+1578519084976	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 03:01:25.455: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: initialize is not defined
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: GUnload is not defined
+1578519095110	Marionette	INFO	Stopped listening on port 33677
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: GUnload is not defined
+[Parent 18771, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18771, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578519295458	Marionette	INFO	Stopped listening on port 35353
+1578519327139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescg95R"
+Gtk-Message: 03:05:27.192: Failed to load module "appmenu-gtk-module"
+1578519327403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578519327403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578519327403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578519327403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25509): GLib-GIO-WARNING **: 03:05:27.491: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 03:05:27.745: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 03:05:27.904: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:25611): Gtk-WARNING **: 03:05:28.023: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25611): Gtk-WARNING **: 03:05:28.023: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25611): Gtk-WARNING **: 03:05:28.023: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25611): Gtk-WARNING **: 03:05:28.023: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25642): Gtk-WARNING **: 03:05:28.180: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25642): Gtk-WARNING **: 03:05:28.180: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25642): Gtk-WARNING **: 03:05:28.180: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25642): Gtk-WARNING **: 03:05:28.180: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578519328543	Marionette	INFO	Listening on port 37903
+1578519328646	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 03:05:28.904: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:25731): Gtk-WARNING **: 03:10:46.431: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25731): Gtk-WARNING **: 03:10:46.431: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25731): Gtk-WARNING **: 03:10:46.431: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25731): Gtk-WARNING **: 03:10:46.431: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+Gtk-Message: 03:10:46.528: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/11928260802250339230/index.html#t=15769356989344636031&p=https%3A%2F%2Ftpc.googlesyndication.com, line 171: TypeError: studio.Enabler is undefined
+JavaScript warning: https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30312D30385F32337D7B7331303037353537357D7B433135397D7B53643364334C6D707664584A755957786B5A585975593239747D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583633307D7B593433307D7B66317D7B725457463059326870626D63754D53356B5958526C7D7B4C333730307DFEFE&userIpAddr=124.123.33.201&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A71.0%29+Gecko%2F20100101+Firefox%2F71.0&playerVersion=3.0.0&fpl=-1&debugInformation=Matching.1.date&isWePassGdpr=1&schain=1.0%2C1%21newormedia.com%2C2273%2C1&csuuid=5e164c72a790f&debugInfo=10075575_Matching.1.date&debugPlayerSession=&sta=10075575&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembedd55vwhtgjprx&secondaryContent=&x=630&y=430&pubUrl=https%3A%2F%2Fwww.journaldev.com%2F23232%2Fpython-add-to-dictionary&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=100&impGap=2&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=17.384599685668945&geoLong=78.4573974609375&vpTemplate=3700&flowMode=below&isRealPreroll=0&playerApiId=&isApp=, line 253: Error: Script terminated by timeout at:
+SlickSkin.prototype.addFunctionality/<@https://live.sekindo.com/live/liveVideo.php?vpaidManager=sekindo&s=58057&ri=6C69766553746174737C736B317B54307D7B64323032302D30312D30385F32337D7B7331303037353537357D7B433135397D7B53643364334C6D707664584A755957786B5A585975593239747D7B6266697265666F787D7B716465736B746F707D7B6F6C696E75787D7B583633307D7B593433307D7B66317D7B725457463059326870626D63754D53356B5958526C7D7B4C333730307DFEFE&userIpAddr=124.123.33.201&userUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A71.0%29+Gecko%2F20100101+Firefox%2F71.0&playerVersion=3.0.0&fpl=-1&debugInformation=Matching.1.date&isWePassGdpr=1&schain=1.0%2C1%21newormedia.com%2C2273%2C1&csuuid=5e164c72a790f&debugInfo=10075575_Matching.1.date&debugPlayerSession=&sta=10075575&showLogo=0&clkUrl=&plMult=-1&schedule=eyJwcmVfcm9sbCI6MSwibWlkX3JvbGwiOltdLCJnYXAiOiJhdXRvIn0%3D&content=plembedd55vwhtgjprx&secondaryContent=&x=630&y=430&pubUrl=https%3A%2F%2Fwww.journaldev.com%2F23232%2Fpython-add-to-dictionary&contentNum=1&flow_closeBtn=1&flowCloseTimeout=0&flow_direction=br&flow_horizontalOffset=10&flow_bottomOffset=100&impGap=2&flow_width=400&flow_height=225&videoType=flow&gdpr=0&gdprConsent=&contentFeedId=&geoLati=17.384599685668945&geoLong=78.4573974609375&vpTemplate=3700&flowMode=below&isRealPreroll=0&playerApiId=&isApp=:253:22750
+
+1578519828657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyw2usF"
+Gtk-Message: 03:13:48.710: Failed to load module "appmenu-gtk-module"
+1578519828926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578519828926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578519828926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578519828926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:32167): GLib-GIO-WARNING **: 03:13:49.012: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 03:13:49.262: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 03:13:49.427: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 03:13:49.530: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 03:13:49.530: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 03:13:49.530: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32245): Gtk-WARNING **: 03:13:49.530: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32270): Gtk-WARNING **: 03:13:49.710: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32270): Gtk-WARNING **: 03:13:49.711: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32270): Gtk-WARNING **: 03:13:49.711: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:32270): Gtk-WARNING **: 03:13:49.711: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578519829900	Marionette	INFO	Listening on port 38059
+1578519829962	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 03:13:50.420: Failed to load module "appmenu-gtk-module"
+[Parent 32167, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 32167, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578521465513	Marionette	INFO	Stopped listening on port 38059
+1578521478223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesslEoF"
+Gtk-Message: 03:41:18.280: Failed to load module "appmenu-gtk-module"
+1578521478492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578521478492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578521478492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578521478492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20866): GLib-GIO-WARNING **: 03:41:18.579: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 03:41:18.815: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 03:41:18.970: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:20937): Gtk-WARNING **: 03:41:19.092: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20937): Gtk-WARNING **: 03:41:19.092: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20937): Gtk-WARNING **: 03:41:19.092: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20937): Gtk-WARNING **: 03:41:19.092: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20964): Gtk-WARNING **: 03:41:19.247: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20964): Gtk-WARNING **: 03:41:19.247: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20964): Gtk-WARNING **: 03:41:19.247: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:20964): Gtk-WARNING **: 03:41:19.247: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578521479450	Marionette	INFO	Listening on port 46513
+1578521479527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 03:41:19.962: Failed to load module "appmenu-gtk-module"
+[Parent 20866, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578521689085	Marionette	INFO	Stopped listening on port 46513
+1578521883095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSzIF9k"
+Gtk-Message: 03:48:03.148: Failed to load module "appmenu-gtk-module"
+1578521883369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578521883369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578521883369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578521883369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26310): GLib-GIO-WARNING **: 03:48:03.455: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 03:48:03.702: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 03:48:03.862: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:26386): Gtk-WARNING **: 03:48:03.988: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26386): Gtk-WARNING **: 03:48:04.015: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26386): Gtk-WARNING **: 03:48:04.015: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26386): Gtk-WARNING **: 03:48:04.015: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26415): Gtk-WARNING **: 03:48:04.145: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26415): Gtk-WARNING **: 03:48:04.145: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26415): Gtk-WARNING **: 03:48:04.145: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26415): Gtk-WARNING **: 03:48:04.146: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578521884340	Marionette	INFO	Listening on port 35335
+1578521884399	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 03:48:04.856: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://www.whatismyproxy.com/, line 1: ReferenceError: GUnload is not defined
+[Parent 9616, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9616, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578524390833	Marionette	INFO	Stopped listening on port 34615
+[Parent 26310, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26310, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578524548600	Marionette	INFO	Stopped listening on port 35335
+1578524564257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex2SiLy"
+Gtk-Message: 04:32:44.309: Failed to load module "appmenu-gtk-module"
+1578524564533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578524564533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578524564533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578524564533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28051): GLib-GIO-WARNING **: 04:32:44.619: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 04:32:44.862: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 04:32:45.035: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:28123): Gtk-WARNING **: 04:32:45.166: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28123): Gtk-WARNING **: 04:32:45.166: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28123): Gtk-WARNING **: 04:32:45.166: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28123): Gtk-WARNING **: 04:32:45.166: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28152): Gtk-WARNING **: 04:32:45.296: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28152): Gtk-WARNING **: 04:32:45.297: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28152): Gtk-WARNING **: 04:32:45.297: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:28152): Gtk-WARNING **: 04:32:45.297: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578524565485	Marionette	INFO	Listening on port 39677
+1578524565560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 04:32:46.007: Failed to load module "appmenu-gtk-module"
+[Parent 28051, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578526316732	Marionette	INFO	Stopped listening on port 39677
+[Parent 28051, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578526330065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepalkcH"
+Gtk-Message: 05:02:10.118: Failed to load module "appmenu-gtk-module"
+1578526330343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578526330343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578526330343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578526330343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16231): GLib-GIO-WARNING **: 05:02:10.430: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 05:02:10.685: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 05:02:10.830: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:16303): Gtk-WARNING **: 05:02:10.953: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16303): Gtk-WARNING **: 05:02:10.953: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16303): Gtk-WARNING **: 05:02:10.953: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16303): Gtk-WARNING **: 05:02:10.953: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16330): Gtk-WARNING **: 05:02:11.174: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16330): Gtk-WARNING **: 05:02:11.174: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16330): Gtk-WARNING **: 05:02:11.174: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:16330): Gtk-WARNING **: 05:02:11.174: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578526331325	Marionette	INFO	Listening on port 40271
+1578526331376	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 05:02:11.830: Failed to load module "appmenu-gtk-module"
+[Parent 16231, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16231, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578526450321	Marionette	INFO	Stopped listening on port 40271
+1578526458665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXDoqDi"
+Gtk-Message: 05:04:18.721: Failed to load module "appmenu-gtk-module"
+1578526458952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578526458952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578526458952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578526458952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17949): GLib-GIO-WARNING **: 05:04:19.040: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 05:04:19.284: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 05:04:19.444: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:18017): Gtk-WARNING **: 05:04:19.571: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18017): Gtk-WARNING **: 05:04:19.571: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18017): Gtk-WARNING **: 05:04:19.572: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18017): Gtk-WARNING **: 05:04:19.572: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18045): Gtk-WARNING **: 05:04:19.733: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18045): Gtk-WARNING **: 05:04:19.733: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18045): Gtk-WARNING **: 05:04:19.733: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18045): Gtk-WARNING **: 05:04:19.733: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578526459905	Marionette	INFO	Listening on port 40737
+1578526459968	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 05:04:20.451: Failed to load module "appmenu-gtk-module"
+[Parent 17949, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17949, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578527003030	Marionette	INFO	Stopped listening on port 40737
+1578527068350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerHezth"
+Gtk-Message: 05:14:28.400: Failed to load module "appmenu-gtk-module"
+1578527068630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578527068630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578527068630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578527068630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25133): GLib-GIO-WARNING **: 05:14:28.753: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 05:14:28.996: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 05:14:29.146: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:25205): Gtk-WARNING **: 05:14:29.268: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25205): Gtk-WARNING **: 05:14:29.268: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25205): Gtk-WARNING **: 05:14:29.268: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25205): Gtk-WARNING **: 05:14:29.268: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25232): Gtk-WARNING **: 05:14:29.427: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25232): Gtk-WARNING **: 05:14:29.427: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25232): Gtk-WARNING **: 05:14:29.427: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:25232): Gtk-WARNING **: 05:14:29.427: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578527069615	Marionette	INFO	Listening on port 42311
+1578527069653	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 05:14:30.152: Failed to load module "appmenu-gtk-module"
+[Parent 25133, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578527147735	Marionette	INFO	Stopped listening on port 42311
+[Parent 25133, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578527170072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIkXNBx"
+Gtk-Message: 05:16:10.129: Failed to load module "appmenu-gtk-module"
+1578527170352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578527170352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578527170352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578527170352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26632): GLib-GIO-WARNING **: 05:16:10.437: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 05:16:10.705: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 05:16:10.877: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:26706): Gtk-WARNING **: 05:16:10.979: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26706): Gtk-WARNING **: 05:16:10.980: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26706): Gtk-WARNING **: 05:16:10.980: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26706): Gtk-WARNING **: 05:16:10.980: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26734): Gtk-WARNING **: 05:16:11.164: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26734): Gtk-WARNING **: 05:16:11.164: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26734): Gtk-WARNING **: 05:16:11.164: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:26734): Gtk-WARNING **: 05:16:11.164: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578527171352	Marionette	INFO	Listening on port 41595
+1578527171395	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 05:16:11.875: Failed to load module "appmenu-gtk-module"
+[Parent 26632, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26632, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox/src/firefox-71.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1578527584233	Marionette	INFO	Stopped listening on port 41595
+1578575148867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet8GbFd"
+Gtk-Message: 18:35:49.058: Failed to load module "appmenu-gtk-module"
+1578575153560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578575153561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578575153561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578575153561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14185): GLib-GIO-WARNING **: 18:35:54.532: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 18:35:58.513: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:14371): Gtk-WARNING **: 18:35:58.781: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14371): Gtk-WARNING **: 18:35:58.781: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14371): Gtk-WARNING **: 18:35:58.781: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14371): Gtk-WARNING **: 18:35:58.782: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+Gtk-Message: 18:35:59.029: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:14404): Gtk-WARNING **: 18:35:59.294: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14404): Gtk-WARNING **: 18:35:59.294: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14404): Gtk-WARNING **: 18:35:59.294: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:14404): Gtk-WARNING **: 18:35:59.294: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+Gtk-Message: 18:36:00.853: Failed to load module "appmenu-gtk-module"
+1578575161374	Marionette	INFO	Listening on port 39125
+1578575161493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578575580721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefUjAjk"
+Gtk-Message: 18:43:00.772: Failed to load module "appmenu-gtk-module"
+1578575580997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578575580998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578575580998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578575580998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18051): GLib-GIO-WARNING **: 18:43:01.092: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 18:43:01.329: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:43:01.492: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:18123): Gtk-WARNING **: 18:43:01.601: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18123): Gtk-WARNING **: 18:43:01.601: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18123): Gtk-WARNING **: 18:43:01.601: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18123): Gtk-WARNING **: 18:43:01.601: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18150): Gtk-WARNING **: 18:43:01.784: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18150): Gtk-WARNING **: 18:43:01.784: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18150): Gtk-WARNING **: 18:43:01.784: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:18150): Gtk-WARNING **: 18:43:01.784: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1578575581963	Marionette	INFO	Listening on port 43657
+1578575582024	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 18:43:02.452: Failed to load module "appmenu-gtk-module"
+1578575600499	Marionette	INFO	Stopped listening on port 43657
